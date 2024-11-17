@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "67399ecbc7f22bd02b03b37f"
+  },
+  "nombre": "María Rodríguez",
+  "experiencia": 5,
+  "partidos": []
+},
+{
+  "_id": {
+    "$oid": "67399edcc7f22bd02b03b381"
+  },
+  "nombre": "Fernando Gómez",
+  "experiencia": 8,
+  "partidos": []
+}]

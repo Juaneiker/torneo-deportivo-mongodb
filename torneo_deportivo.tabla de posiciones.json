@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67399fe1f37c2bdf8ef27997"
+  },
+  "equipo": "Atlético Nacional",
+  "puntos": 18,
+  "goles_a_favor": 30,
+  "goles_en_contra": 15,
+  "diferencia_goles": 15
+},
+{
+  "_id": {
+    "$oid": "67399fe1f37c2bdf8ef27998"
+  },
+  "equipo": "Millonarios",
+  "puntos": 15,
+  "goles_a_favor": 25,
+  "goles_en_contra": 10,
+  "diferencia_goles": 15
+},
+{
+  "_id": {
+    "$oid": "67399fe1f37c2bdf8ef27999"
+  },
+  "equipo": "Santa Fe",
+  "puntos": 12,
+  "goles_a_favor": 20,
+  "goles_en_contra": 10,
+  "diferencia_goles": 10
+},
+{
+  "_id": {
+    "$oid": "67399fe1f37c2bdf8ef2799a"
+  },
+  "equipo": "América de Cali",
+  "puntos": 10,
+  "goles_a_favor": 18,
+  "goles_en_contra": 14,
+  "diferencia_goles": 4
+}]

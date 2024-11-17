@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67399e4a3677d728695493cf"
+  },
+  "nombre": "Juan Pérez",
+  "equipo": "Atlético Nacional",
+  "posición": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "67399e4a3677d728695493d0"
+  },
+  "nombre": "Carlos Fernández",
+  "equipo": "Millonarios",
+  "posición": "Arquero",
+  "edad": 30,
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "67399ff6f37c2bdf8ef2799b"
+  },
+  "nombre": "Prueba",
+  "equipo": "Test",
+  "posición": "Delantero",
+  "edad": 25,
+  "nacionalidad": "Colombiana"
+}]

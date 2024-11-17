@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "67399a0ca71c19bb0eb43991"
+  },
+  "nombre": "Carlos Gómez",
+  "equipo": "Atlético Nacional",
+  "especialidad": "Defensiva",
+  "experiencia": 10
+},
+{
+  "_id": {
+    "$oid": "67399a0ca71c19bb0eb43992"
+  },
+  "nombre": "Luis Rodríguez",
+  "equipo": "Millonarios",
+  "especialidad": "Ofensiva",
+  "experiencia": 7
+}]

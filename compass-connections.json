@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "0467d871-eb30-4383-bc22-58fafb49849c",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1731870395677"
+        }
+      },
+      "favorite": {
+        "name": "actividad 1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
